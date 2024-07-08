@@ -4,12 +4,14 @@
 Open the terminal and run:
 ```console
 cd server
+npm install
 npm start
 ```
 
 Open a new terminal and run:
 ```console
 cd client
+npm install
 npm start
 ```
 
