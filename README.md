@@ -1,6 +1,6 @@
 # JavaScript Online Coding Web Application
 
-## Run
+## Run the Application
 Open the terminal and run:
 ```console
 cd server
